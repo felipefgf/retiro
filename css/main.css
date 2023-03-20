@@ -1,3 +1,7 @@
+.tp-bullets{
+    display: none !important;
+}
+
 .onepagepro-header-background-transparent .onepagepro-header-background{
     opacity: 1 !important;
 }
@@ -11,3 +15,41 @@
     z-index: 6 !important;
 }
 
+@media only screen and (max-width: 600px) {
+    .tp-parallax-wrap{
+        left: 37px !important;
+        top: 56px !important;
+    }
+
+    #fotoTrilha{
+        background-size: auto !important;
+    }
+
+    #divTextoTrilha{
+        height: 97px !important;
+    }
+
+    #textoTrilha{
+        background: rgba(0,0,0,0.6) !important;
+        margin-top: 8px !important;
+        font-size: 19px !important;
+        letter-spacing: 0px !important;
+        text-transform: none !important;
+        color: #ffffff !important;
+        line-height: 27px !important;
+        height: 4.5em !important;
+    }
+
+    #divPaiFotoEquipe{
+        padding: 81vw 0px 0px 80px !important;
+    }
+
+    #divFotoEquipe{
+        height: 101vw;
+    }
+
+    #fotoEquipe{
+        background-size: contain !important;
+        height: 100.5vw;
+    }
+}
