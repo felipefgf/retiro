@@ -1,0 +1,13 @@
+.onepagepro-header-background-transparent .onepagepro-header-background{
+    opacity: 1 !important;
+}
+
+.tp-parallax-wrap{
+    position: absolute !important;
+    display: block !important;
+    visibility: visible !important;
+    left: 100px !important;
+    top: 159px !important;
+    z-index: 6 !important;
+}
+
