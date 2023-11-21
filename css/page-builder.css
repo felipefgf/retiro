@@ -80,8 +80,8 @@
 	.gdlr-core-column-extend-right > .gdlr-core-pbf-background-wrap{ margin-right: -50px; } 
 }
 @media only screen and (min-width: 1000px) and (max-width: 1170px){ 
-	.gdlr-core-column-extend-left > .gdlr-core-pbf-background-wrap{ margin-left: -100px; } 
-	.gdlr-core-column-extend-right > .gdlr-core-pbf-background-wrap{ margin-right: -100px; } 
+	.gdlr-core-column-extend-left > .gdlr-core-pbf-background-wrap{ margin-left: -20px; }
+	.gdlr-core-column-extend-right > .gdlr-core-pbf-background-wrap{ margin-right: -20px; }
 }
 @media only screen and (min-width: 1171px) and (max-width: 1400px){ 
 	.gdlr-core-column-extend-left > .gdlr-core-pbf-background-wrap{ margin-left: -200px; } 
