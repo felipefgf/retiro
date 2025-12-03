@@ -4,6 +4,7 @@
 
 .onepagepro-header-background-transparent .onepagepro-header-background{
     opacity: 1 !important;
+    background-color: #001A1E !important;
 }
 
 .tp-parallax-wrap{
@@ -13,6 +14,21 @@
     left: 100px !important;
     top: 159px !important;
     z-index: 6 !important;
+}
+
+.quemSomosFotinhus{
+    height: 338px !important;
+    width: auto !important;
+    max-width: 25%;
+    margin: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    float: left;
+}
+
+.quemSomosTextuinhui{
+    width: 70%;
+    float: right;
 }
 
 @media only screen and (max-width: 600px) {
