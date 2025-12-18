@@ -29,9 +29,17 @@
 .quemSomosTextuinhui{
     width: 70%;
     float: right;
+    text-align: justify !important;
+    font-weight: normal !important;
 }
 
 @media only screen and (max-width: 600px) {
+    .quemSomosTextuinhui{
+        width: 100%;
+        margin-top: 10px !important;
+        font-size: 18px !important;
+    }
+
     .tp-parallax-wrap{
         left: 37px !important;
         top: 56px !important;
