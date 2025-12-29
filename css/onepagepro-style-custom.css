@@ -100,8 +100,8 @@ body.onepagepro-background-pattern .onepagepro-body-outer-wrapper{ background-im
 .onepagepro-style-side .onepagepro-header-side-nav-background{ opacity: 0.45; } 
  .onepagepro-navigation .sf-vertical > li{ padding-top: 16px; padding-bottom: 16px; } 
 .onepagepro-header-style-bar .onepagepro-logo-right-text{ padding-top: 30px; } 
-.onepagepro-logo{ padding-top: 50px; } 
-.onepagepro-logo{ padding-bottom: 32px; } 
+.onepagepro-logo{ padding-top: 15px; }
+.onepagepro-logo{ padding-bottom: 15px; }
 .onepagepro-logo-inner{ max-width: 200px; } 
 .onepagepro-navigation{ padding-top: 53px; }.onepagepro-navigation-top{ top: 53px; } 
 .onepagepro-navigation .sf-menu > li > a{ padding-bottom: 34px; } 
